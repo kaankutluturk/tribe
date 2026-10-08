@@ -141,4 +141,3 @@ Tribe is an independent community tool and is not affiliated with or endorsed by
 ## License
 
 MIT, see [LICENSE](LICENSE).
-

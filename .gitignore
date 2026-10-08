@@ -1,0 +1,8 @@
+# build output
+bin/
+
+# editor files
+.vs/
+.vscode/
+*.user
+Thumbs.db
